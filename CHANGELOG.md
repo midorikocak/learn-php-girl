@@ -7,7 +7,8 @@ We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 First stage: Main descriptions made on README.md, CHANGELOG.md, CONTRIBUTING.md, INSTALL.md
 
 ### Added
-- Nothing
+- Started with open source templates
+- Travis CI Support
 
 ### Deprecated
 - Nothing.
