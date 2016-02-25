@@ -1,0 +1,29 @@
+{ "name": "midorikocak/learn-php-girl",
+    "description": "This project is for girls that would like to create and maintain a mentorship program.'",
+    "license": "MIT",
+    "keywords": ["mentor","learning", "php", "girls", "coding", "code"],
+    "authors": [
+        {
+            "name": "Midori Kocak",
+            "email": "mtkocak@gmail.com"
+        }
+    ],
+    "require": {
+        "mtkocak/basicdb": "dev-master"
+    },
+	"require-dev": {
+		"phpunit/phpunit": "5.1.*"
+	},
+    "config": {
+        "bin-dir": "bin/",
+        "preferred-install": "dist"
+    },
+    "autoload": {
+		"psr-4": {
+			"MidoriKocak\\": "src/"
+		},
+		"psr-0": {
+		"MidoriKocakTest\\": "tests/"
+	}
+    }
+}
