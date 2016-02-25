@@ -1,5 +1,7 @@
 # learn php girl
 
+[![Build Status](https://travis-ci.org/midorikocak/learn-php-girl.svg?branch=master)](https://travis-ci.org/midorikocak/learn-php-girl)
+
 **Description**:  
 This project is for girls that would like to create and maintain a mentorship program. The core idea is incite other girls to learn some technologies, providing an environment where they can teach and also learn the programmng language they have chosen.
 
