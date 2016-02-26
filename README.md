@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/midorikocak/learn-php-girl.png?label=ready&title=Ready)](https://waffle.io/midorikocak/learn-php-girl)
 # learn php girl
 
 [![Build Status](https://travis-ci.org/midorikocak/learn-php-girl.svg?branch=master)](https://travis-ci.org/midorikocak/learn-php-girl)
